@@ -61,7 +61,8 @@ PRODUCT_PACKAGES += \
     LockClock \
     OmniJaws \
     OmniStyle \
-    OmniSwitch 
+    OmniSwitch \
+    Chromium
 
 PRODUCT_COPY_FILES += \
     vendor/aosip/prebuilt/common/app/NovaLauncher.apk:system/priv-app/NovaLauncher.apk
