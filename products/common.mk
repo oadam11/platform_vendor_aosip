@@ -60,8 +60,8 @@ PRODUCT_PACKAGES += \
     Busybox \
     LockClock \
     OmniJaws \
-    OmniSwitch \
-    OmniStyle
+    OmniStyle \
+    OmniSwitch 
 
 PRODUCT_COPY_FILES += \
     vendor/aosip/prebuilt/common/app/NovaLauncher.apk:system/priv-app/NovaLauncher.apk
