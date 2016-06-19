@@ -1,4 +1,4 @@
-# Inherit AOSP device configuration for shamu.
+# Inherit AOSP device configuration for angler.
 $(call inherit-product, device/huawei/angler/aosp_angler.mk)
 
 # Inherit common product files.
