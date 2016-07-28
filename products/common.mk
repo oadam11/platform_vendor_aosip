@@ -62,6 +62,7 @@ PRODUCT_PACKAGES += \
     OmniJaws \
     OmniStyle \
     OmniSwitch \
+	KernelAdiutor \
     Chromium
 
 PRODUCT_COPY_FILES += \
